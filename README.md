@@ -1,93 +1,87 @@
-# MeghanaDarla
-# 👋 Hi, I'm Meghana Darla  
+# 👋 Hi, I’m Meghana Darla  
 
-🎓 **MS in Health Informatics** | Emory University School of Medicine  
-🔍 **Clinical Research, AI in Healthcare, Data Analytics**  
-📊 Passionate about **AI-driven decision support**, **data visualization**, and **clinical usability research**  
+🎓 **Master of Science in Health Informatics**  
+💻 **Clinical Research | Data Analytics | AI-Driven Health Informatics**  
+📍 Based in Atlanta, GA  
 
----
-
-## 🌟 About Me  
-I’m a health informatics professional with a strong focus on **AI-driven clinical decision support systems**, **medical imaging analytics**, and **data visualization**.  
-My work combines **clinical research**, **human factors evaluation**, and **data science** to build tools that improve healthcare outcomes.  
-
-- 🧠 Experienced in **foundation models**, **machine learning workflows**, and **interactive dashboards**.  
-- 🩺 Conducting usability research on **XR-based surgical visualization** and **AI adoption** in clinical workflows.  
-- 📊 Skilled in Python, SQL, Power BI, REDCap, and statistical analysis.
+I’m passionate about combining **data, healthcare, and technology** to improve clinical workflows and patient outcomes.  
+My projects integrate **AI**, **data visualization**, and **informatics** to solve real-world challenges in healthcare research and decision support.
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🩻 **Thoracic Rangers – Emory CXR Embedding Atlas**  
-> *Emory AI Datathon 2025*  
-An **interactive visualization tool** to explore chest X-ray embeddings using **five foundation models**: RaD-DINO, MedGemma, CheXagent, MedImageInsight, and BiomedCLIP.
-
-**Highlights**:
-- Built an **Embedding Atlas** for **real-time clustering** and **subgroup analysis**.
-- Compared **100K embeddings per model** using **UMAP + Cosine Similarity**.
-- Identified **model biases, outlier patterns, and subgroup-level imaging similarities**.  
-
-🔗 [View Project](https://github.com/<your-username>/thoracic-rangers-cxr)
+### 📊 [Child Behavior & Attendance Dashboard](https://github.com/MeghanaDarla99/Child-Behavior-Attendance-Dashboard-) *(Power BI + MySQL + Excel)*  
+An **interactive dashboard** analyzing **attendance, session types, behavioral outcomes, and staff workload** using **mock datasets**.  
+- Built custom **DAX measures** for KPIs and designed **relationships across multiple tables**.  
+- Visualized actionable insights for educators and behavioral specialists.  
+> ⚠️ **Note:** This repository uses **mock data** for demonstration purposes only.  
 
 ---
 
-### 🧠 **AI-Enabled Clinical Decision Support Systems (CDSS) Evaluation**  
-> *MSHI Practicum, Emory University School of Medicine*  
-A **mixed-methods evaluation** of clinician trust, usability, and workflow integration of **AI-enabled CDSS** in critical care.
-
-**Highlights**:
-- Designed and deployed **REDCap surveys** (n=57) and **semi-structured interviews**.
-- Performed **thematic analysis** with 690+ codes and 36 key themes.
-- Generated user-centered recommendations to improve **AI adoption in clinical workflows**.
+### 🧠 VR Accelerometer Stroke Rehab Analysis (https://github.com/MeghanaDarla99/vr-performance-and-accelerometer-analysis) *(Python + Excel)*  
+- Analyzed **cognitive performance and motor recovery data** from VR-assisted stroke rehabilitation sessions.  
+- Applied **Spearman correlation** and APA-standard statistical testing.  
+- Compared accelerometer-derived **M2 scores** with clinical scales (FMA, MAL).  
 
 ---
 
-### 🩺 **XR Surgical Usability Studies**  
-> *Ongoing Research, Emory University*  
-Conducting two IRB-approved studies evaluating the **Infinite Loupe XR headset** for surgical visualization.
-
-**Highlights**:
-- **Study 1**: Magnification usability vs. surgical microscope.
-- **Study 2**: Surgical overlay accuracy using **3D-printed organ models**.
-- Analyzing **task performance, cognitive workload (NASA-TLX), and user confidence**.
+### 🩺 Diabetes Predictive Factors Analysis (https://github.com/MeghanaDarla99/diabetes-prediction-analysis). *(R)*  
+- Processed **100,000 patient records** in R, cleaned inconsistencies, and managed outliers.  
+- Built a **diabetes risk prediction model** using logistic regression and multivariate analysis.  
+- Evaluated predictors: **age, HbA1c, BMI, and blood glucose levels**.  
+- Verified results with **Kruskal-Wallis and Dunn’s post-hoc tests**.  
 
 ---
 
-### 📊 **Interactive Power BI Dashboard – Behavioral Outcomes**  
-> *Personal Project*  
-Built a fully interactive dashboard to analyze **client attendance, behavioral outcomes, and session types**.
-
-**Highlights**:
-- Designed **custom DAX measures** and data relationships across multiple tables.
-- Implemented slicers, KPIs, and insights for **actionable decision-making**.
-- Backend data processing in **MySQL + Excel**, visualized in **Power BI**.  
-
-🔗 [View Project](https://github.com/<your-username>/powerbi-behavioral-dashboard)
+### 🌍 Sierra Leone Maternal & Child Health Analysis (https://github.com/MeghanaDarla99/dhis2-sierra-leone-healthcare-project)*(DHIS2 + R + Time-Series)*  
+- Analyzed **maternal and child health datasets** from Sierra Leone DHIS2 exports.  
+- Built **choropleth maps** and **time-series visualizations** to track vaccination disparities.  
+- Forecasted ORS stock and referrals using **Auto ARIMA, Holt-Winters, and ETS models**.  
+- Applied **NLP** to extract insights from healthcare feedback.  
 
 ---
 
-## 🛠️ Technical Skills  
-
-| **Category**        | **Tools / Technologies** |
-|---------------------|---------------------------|
-| **Languages**      | Python, SQL, R |
-| **Data Visualization** | Power BI, Tableau, Matplotlib, Plotly |
-| **Machine Learning** | Scikit-learn, UMAP, Foundation Models |
-| **Databases**       | MySQL, PostgreSQL, REDCap |
-| **Statistical Analysis** | RStudio, Python Stats, Survey Analysis |
-| **Workflow Tools**  | GitHub, Jupyter, ATLAS.ti, NVivo |
-| **Healthcare Tech** | HL7, FHIR, EMR/EHR Integration, AI-CDSS |
+### 🔗 Interoperability Project – Clinical Data Exchange (https://github.com/MeghanaDarla99/Health-Information-Standards-Terminology-Project) *(FHIR + XML + JSON + Postman)*  
+- Assessed a **hypertensive urgency use case** and mapped data to **ICD-10, SNOMED CT, RxNorm, LOINC**.  
+- Developed **HL7 CDA in XML** and transformed into JSON with XSLT.  
+- Validated **FHIR API workflows** in Postman.  
+- Enabled interoperability between **OpenMRS (EHR)** and **OpenELIS (LIS)**.  
 
 ---
 
-## 📬 Let's Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/dr-meghana-darla/)
-- 📧 Email: darlameghana1999@gmail.com  
-- 🌐 [Portfolio / Projects](https://dr-meghana-darla-k56bn69.gamma.site/)
+### 🌐 Global Insights Data Analysis (https://github.com/MeghanaDarla99/life-expectancy-global-insights) *(Python + SQL + ML)*  
+- Conducted **EDA and hypothesis testing** on global health data.  
+- Built predictive models: **Linear Regression, Decision Tree, Random Forest**.  
+- Achieved up to **93% accuracy** in predicting life expectancy.  
+- Delivered insights on how **GDP, education, and healthcare spending** influence outcomes.  
 
 ---
 
-> “Turning data into insights, and insights into better healthcare.”
+### 🧠 AI-Enabled Clinical Decision Support Systems (CDSS) Evaluation *(Emory University)*  
+- Led a **human factors evaluation** of AI-driven CDSS tools in acute care (PRECISE trial).  
+- Designed REDCap surveys (**n=57**) and conducted interviews.  
+- Thematic analysis with **690+ codes and 36 themes**.  
+- Proposed recommendations to improve **alert usability**, **clinician trust**, and **workflow integration**.  
 
+---
+
+## 🛠 Technical Skills  
+
+**Data Visualization**: Power BI, Tableau, Matplotlib, Plotly  
+**Databases**: MySQL, PostgreSQL, MS SQL Server  
+**Programming**: Python, R, SQL  
+**Machine Learning / Statistics**: scikit-learn, logistic regression, clustering, ARIMA, Random Forest, Decision Trees  
+**Data Tools**: Excel (Power Query, Pivot Tables), Pandas, NumPy  
+**Healthcare Informatics**: FHIR, HL7, DHIS2, REDCap, ATLAS.ti  
+**Version Control**: Git, GitHub  
+
+---
+
+## 📫 Let’s Connect  
+
+- 🔗 **GitHub:** [github.com/MeghanaDarla99](https://github.com/MeghanaDarla99)  
+- 💼 **LinkedIn:** [linkedin.com/in/dr-meghana-darla](https://www.linkedin.com/in/dr-meghana-darla)  
+- 📧 **Email:** darlameghana1999@gmail.com  
+
+---

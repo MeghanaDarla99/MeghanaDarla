@@ -11,7 +11,7 @@ My projects integrate **AI**, **data visualization**, and **informatics** to sol
 
 ## 🚀 Featured Projects  
 
-### 📊 [Child Behavior & Attendance Dashboard] (https://github.com/MeghanaDarla99/Child-Behavior-Attendance-Dashboard-) *(Power BI + MySQL + Excel)*  
+### 📊 Child Behavior & Attendance Dashboard (https://github.com/MeghanaDarla99/Child-Behavior-Attendance-Dashboard-) *(Power BI + MySQL + Excel)*  
 An **interactive dashboard** analyzing **attendance, session types, behavioral outcomes, and staff workload** using **mock datasets**.  
 - Built custom **DAX measures** for KPIs and designed **relationships across multiple tables**.  
 - Visualized actionable insights for educators and behavioral specialists.  

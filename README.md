@@ -11,6 +11,27 @@ My projects integrate **AI**, **data visualization**, and **informatics** to sol
 
 ## 🚀 Featured Projects  
 
+### 🩻 **Thoracic Rangers – Emory CXR Embedding Atlas**  
+> *Emory AI Datathon 2025*  
+Built an **interactive visualization tool** to analyze **chest X-ray embeddings** from the **Emory CXR dataset** using **five foundation models**:
+RaD-DINO, MedGemma, CheXagent, MedImageInsight, and BiomedCLIP.
+
+**My Contributions**:  
+- Performed **EDA** and sampled **100K images per model**.  
+- Applied **UMAP + Cosine Similarity** for **2D dimensionality reduction**.  
+- Developed **interactive embedding visualizations** using **Embedding Atlas**.  
+- Conducted **subgroup-level analyses** to understand outlier clusters and model differences.
+
+**Key Insights**:  
+- Embeddings varied significantly between models → **model choice impacts downstream tasks**.  
+- **RaD-DINO** and **MedGemma** produced **tighter, well-separated clusters**, while others overlapped more.  
+- Subgroup patterns were influenced by **age**, **BMI**, and **clinical labels**, highlighting potential biases.
+
+**Conclusion**:  
+An **interactive embedding atlas** helps clinicians and researchers visualize model behavior, identify outliers, and compare subgroup patterns in real time.
+
+🔗 [View Project] (https://github.com/MeghanaDarla99/medical-foundation-models-datathon)
+
 ### 📊 Child Behavior & Attendance Dashboard (https://github.com/MeghanaDarla99/Child-Behavior-Attendance-Dashboard-) *(Power BI + MySQL + Excel)*  
 An **interactive dashboard** analyzing **attendance, session types, behavioral outcomes, and staff workload** using **mock datasets**.  
 - Built custom **DAX measures** for KPIs and designed **relationships across multiple tables**.  

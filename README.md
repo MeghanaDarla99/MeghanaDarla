@@ -11,7 +11,7 @@ My projects integrate **AI**, **data visualization**, and **informatics** to sol
 
 ## 🚀 Featured Projects  
 
-### 📊 [Child Behavior & Attendance Dashboard](https://github.com/MeghanaDarla99/Child-Behavior-Attendance-Dashboard-) *(Power BI + MySQL + Excel)*  
+### 📊 [Child Behavior & Attendance Dashboard] (https://github.com/MeghanaDarla99/Child-Behavior-Attendance-Dashboard-) *(Power BI + MySQL + Excel)*  
 An **interactive dashboard** analyzing **attendance, session types, behavioral outcomes, and staff workload** using **mock datasets**.  
 - Built custom **DAX measures** for KPIs and designed **relationships across multiple tables**.  
 - Visualized actionable insights for educators and behavioral specialists.  
@@ -34,7 +34,7 @@ An **interactive dashboard** analyzing **attendance, session types, behavioral o
 
 ---
 
-### 🌍 Sierra Leone Maternal & Child Health Analysis (https://github.com/MeghanaDarla99/dhis2-sierra-leone-healthcare-project)*(DHIS2 + R + Time-Series)*  
+### 🌍 Sierra Leone Maternal & Child Health Analysis (https://github.com/MeghanaDarla99/dhis2-sierra-leone-healthcare-project) *(DHIS2 + R + Time-Series)*  
 - Analyzed **maternal and child health datasets** from Sierra Leone DHIS2 exports.  
 - Built **choropleth maps** and **time-series visualizations** to track vaccination disparities.  
 - Forecasted ORS stock and referrals using **Auto ARIMA, Holt-Winters, and ETS models**.  

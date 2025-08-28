@@ -83,9 +83,9 @@ Built a fully interactive dashboard to analyze **client attendance, behavioral o
 
 ## 📬 Let's Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/<your-linkedin>)
-- 📧 Email: meghanadarla1999@gmail.com  
-- 🌐 [Portfolio / Projects](https://github.com/<your-username>)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dr-meghana-darla/)
+- 📧 Email: darlameghana1999@gmail.com  
+- 🌐 [Portfolio / Projects](https://dr-meghana-darla-k56bn69.gamma.site/)
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Meghana Darla  
 
-🎓 **Master of Science in Health Informatics**  
+🎓 **Master of Science in Health Informatics**  | **Dentistry**
 💻 **Clinical Research | Data Analytics | AI-Driven Health Informatics**  
 📍 Based in Atlanta, GA  
 
